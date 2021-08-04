@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roy Schrauwen</h1>
-<h3 align="center">A soon to be Software Development student from Rotterdam, The Netherlands</h3>
+<h3 align="center">A self-learning developer, but in september I will be a Software Development student from Rotterdam, The Netherlands</h3>
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
-
-- 👨‍💻 All of my projects are available at [www.royschrauwen.nl](www.royschrauwen.nl)
 
 - 📫 How to reach me **dev@royschrauwen.nl**
 
