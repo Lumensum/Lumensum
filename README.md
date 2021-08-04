@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roy Schrauwen</h1>
-<h3 align="center">A self-learning developer, but in september I will be a Software Development student from Rotterdam, The Netherlands</h3>
+<h3 align="center">A self-learning developer from Rotterdam, The Netherlands</h3>
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
